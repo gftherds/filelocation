@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Filelocation</string>
+    <string name="action_settings">Settings</string>
+    <string name="latitude_label">latitude label</string>
+    <string name="longtitude_label">longtitude label</string>
+    <string name="location_updated">location updated</string>
+</resources>
